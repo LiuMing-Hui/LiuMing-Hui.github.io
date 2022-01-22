@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fangkai Jiao"
+title                    : "Harry Cheng"
 title_separator          : "-"
-name                     : &name "Fangkai Jiao"
-description              : &description "继续走八千里路 三十功名尘与土"
-url                      : https://sparkjiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Harry Cheng"
+description              : &description "不负少年诗"
+url                      : https://xacheng1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SparkJiao/SparkJiao.github.io"
+repository               : "xaCheng1996/xaCheng1996.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fangkai Jiao"
-  avatar           : "me3_clip.jpg"
-  bio              : "Master student of CS in Shandong University, advised by Prof. Liqiang Nie"
+  name             : "Harry Cheng"
+  avatar           : "bio.jpg"
+  bio              : "Ph.D. student of CS in Shandong University, advised by Prof. Liqiang Nie"
   location         : "Qingdao, Shandong, China"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=_u8lwyIAAAAJ"
-  email            : "jiaofangkai@hotmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            : "xaCheng1996@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Harry-Cheng-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SparkJiao"
+  github           : "xaCheng1996"
   google_plus      :
   keybase          :
   instagram        :
