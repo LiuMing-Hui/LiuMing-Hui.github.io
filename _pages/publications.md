@@ -15,29 +15,21 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## 2022
+
+**Multi-Relation Extraction via A Global-Local Graph Convolutional Network**<br />
+**Harry Cheng**, Lizi Liao, Linmei Hu, Liqiang Nie<br />
+IEEE Transactions on Big Data (Accepted, Early Access)<br />
+[[PDF]](https://ieeexplore.ieee.org/document/9684942)  [[Code]](https://github.com/xaCheng1996/Code-for-GAME)<br />
+
 ## 2021
 
-- **REPT: Bridging Language Models and Machine Reading Comprehension via Retrieval-Based Pre-training** <br>
-**Fangkai Jiao**, Yangyang Guo, Yilin Niu, Feng Ji, Feng-Lin Li, Liqiang Nie. _ACL 2021 (Findings)._  
-[[Paper](https://arxiv.org/pdf/2105.04201.pdf)]
-[[Code](https://github.com/SparkJiao/Retrieval-based-Pre-training-for-Machine-Reading-Comprehension)]
+**Audio-driven Talking Video Frame Restoration**<br />
+**Harry Cheng**, Yangyang Guo, Jianhua Yin, Haonan Chen, Jiafang Wang, Liqiang Nie<br />
+IEEE Transactions on Multimedia (Accepted, Early Access)<br />
+[[PDF]](https://ieeexplore.ieee.org/document/9563268/)  [Code(Plz Email me for code release)](xacheng1996@gmail.com)<br />
 
-- **Conversational Image Search** <br>
-Liqiang Nie, **Fangkai Jiao**, Wenjie Wang, Yinglong Wang, and Qi Tian. _TIP 2021_.  
-[[Paper](https://ieeexplore.ieee.org/document/9528996)]
-[[Code](https://github.com/SparkJiao/LARCH)]
-
-## 2020
-
-- **A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction** <br>
-Yilin Niu\*, **Fangkai Jiao**\*, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie Huang. _ACL 2020._  
-[[Paper](https://arxiv.org/pdf/2005.05189.pdf)]
-[[Code](https://github.com/SparkJiao/Self-Training-MRC)]
-
-
-## Preprints
-
-- **MERIt: Meta-Path Guided Contrastive Learning for Logical Reasoning** <br>
-**Fangkai Jiao**, Yangyang Guo, Xuemeng Song, Liqiang Nie. _Under review._  
-[[Paper]()]
-[[Code](https://github.com/SparkJiao/reclor_challenge)]
+**Multimodal Activation: Awakening Dialog Robots without Wake Words**<br />
+Liqiang Nie, Mengzhao Jia, Xuemeng Song, Ganglu Wu, **Harry Cheng**, Jian Gu<br />
+Proceeding of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval<br />
+[[PDF]](https://dl.acm.org/doi/10.1145/3404835.3462964) <br />
