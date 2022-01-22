@@ -10,12 +10,16 @@ redirect_from:
 
 ## About Me
 
-I am Fangkai Jiao (焦方锴), a last-year graduate student at Shandong University, mentored by [Dr. Liqiang Nie](https://liqiangnie.github.io/). I received my bachelor degree in Software Engineering from Shandong University in 2019.
+I am Harry Cheng (with Chinese name Xuan-Ang Cheng, AKA 程轩昂), a Ph.D. student in [the school of computer science and technology](https://www.cs.sdu.edu.cn/), Shandong University (Qingdao). Before that, I received my master degree from the school of computer science and technology, Shandong University, in 2021; and received my B.Eng degree from the school of software, Shandong University, in 2018.
 
-My primary research interest includes pre-training, machine reading comprehension and question answering.
+🔭[Email](xacheng1996@gmail.com) &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  🌱 [Google scholar]()
 
-I interned at CoAI Lab, Tsinghua University, mentored by [Dr. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml) from Oct. 2018 to Aug. 2019. I was also an intern at DAMO Academy, Alibaba-inc from Jul. 2020 to Feb. 2021, mentored by [Dr. Feng Ji](http://scholar.google.com/citations?user=BxWZ-ZgAAAAJ&hl=zh-CN) and [Dr. Feng-Lin Li](http://scholar.google.it/citations?user=xo_dfnMAAAAJ&hl=en).
+👯[ResearchGate](https://www.researchgate.net/profile/Harry-Cheng-4)   &nbsp; &nbsp;       ⚡[OrcID](https://orcid.org/0000-0001-7436-0162)
+
+## Research Interest
+
+My research interests include multi-modal representation and computing, information retrieval, and deep learning.
 
 ## News
 
-2021.11.5: Our system for logical reasoning achieves the Top-1 results among single models on [Reclor](https://eval.ai/web/challenges/challenge-page/503/leaderboard/1347) leaderboard.
+2022.1.22: Our paper was accepted by IEEE Transaction on Big Data.
