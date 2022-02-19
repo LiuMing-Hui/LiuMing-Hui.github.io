@@ -28,6 +28,7 @@ redirect_from:
 
 ## Academic Services
 <!-- ===== -->
+* ICPR 2022 Reviewer
 * CVPR 2022 Reviewer
 * IEEE TKDE Reviewer
 
