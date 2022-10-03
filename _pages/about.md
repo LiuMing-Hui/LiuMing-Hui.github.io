@@ -21,6 +21,4 @@ I am Harry Cheng (with Chinese name Xuan-Ang Cheng, AKA 程轩昂), a Ph.D. stud
 My research interests include multi-modal representation and computing, information retrieval, and deep learning.
 
 ## News
-2022.3.2: Our paper, 'Voice-Face Homogeneity Tells Deepfake', was accepted by CVPR 2022.
-
 2022.1.22: Our paper was accepted by IEEE Transaction on Big Data.
