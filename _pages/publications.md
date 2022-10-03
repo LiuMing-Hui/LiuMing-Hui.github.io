@@ -17,8 +17,8 @@ author_profile: true
 
 ## 2022
 **Voice-Face Homogeneity Tells Deepfake**<br />
-**Harry Cheng**,Yangyang Guo, Tianyi Wang, Qi Li, Tao Ye, Liqiang Nie<br />
-in CVPR 2022<br />
+**Harry Cheng**,Yangyang Guo, Tianyi Wang, Qi Li, Xiaojun Chang, Liqiang Nie<br />
+Submitted to IEEE TPAMI (Reviewing)<br />
 [[PDF]](https://arxiv.org/abs/2203.02195)  [[Code]](https://github.com/xaCheng1996/VFD)<br />
 
 **Multi-Relation Extraction via A Global-Local Graph Convolutional Network**<br />
