@@ -26,6 +26,11 @@ Submitted to IEEE TPAMI (Reviewing)<br />
 IEEE Transactions on Big Data (Accepted, Early Access)<br />
 [[PDF]](https://ieeexplore.ieee.org/document/9684942)  [[Code]](https://github.com/xaCheng1996/Code-for-GAME)<br />
 
+**On Modality Bias Recognition and Reduction** <br />
+Yangyang Guo, Liqiang Nie, **Harry Cheng**, Zhiyong Cheng, Mohan Kankanhalli, Alberto Del Bimbo <br />
+ACM Transactions on Multimedia Computing Communications and Applications (Accepted) <br />
+[[PDF]](https://arxiv.org/abs/2202.12690)
+
 ## 2021
 
 **Audio-driven Talking Video Frame Restoration**<br />
