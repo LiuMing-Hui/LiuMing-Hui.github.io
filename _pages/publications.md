@@ -18,7 +18,7 @@ author_profile: true
 ## 2023
 
 **Towards Generalizable Deepfake Detection by Primary Region Regularization**<br />**Harry Cheng,** Yangyang Guo, Tianyi Wang, Liqiang Nie, Mohan Kankanhalli<br />
-Submitted to IEEE TPAMI (Reviewing)<br />
+(Reviewing)<br />
 [[PDF]](https://arxiv.org/abs/2307.12534)  [[Code]](https://github.com/xaCheng1996/PRLE)<br />
 
 **Sample Less, Learn More: Efficient Action Recognition via Frame Feature Restoration**<br />**Harry Cheng**, Yangyang Guo, Liqiang Nie, Zhiyong Cheng, Mohan Kankanhalli<br />
@@ -31,19 +31,19 @@ ACM Transactions on Multimedia Computing Communications and Applications (Accept
 
 **Voice-Face Homogeneity Tells Deepfake**<br />
 **Harry Cheng**,Yangyang Guo, Tianyi Wang, Qi Li, Xiaojun Chang, Liqiang Nie<br />
-Submitted to ACM ToMM (Reviewing)<br />
+(Reviewing)<br />
 [[PDF]](https://arxiv.org/abs/2203.02195)  [[Code]](https://github.com/xaCheng1996/VFD)<br />
 
 ## 2022
 
 **Multi-Relation Extraction via A Global-Local Graph Convolutional Network**<br />
 **Harry Cheng**, Lizi Liao, Linmei Hu, Liqiang Nie<br />
-IEEE Transactions on Big Data (Accepted, Early Access)<br />
+IEEE Transactions on Big Data <br />
 [[PDF]](https://ieeexplore.ieee.org/document/9684942)  [[Code]](https://github.com/xaCheng1996/Code-for-GAME)<br />
 
 **On Modality Bias Recognition and Reduction** <br />
 Yangyang Guo, Liqiang Nie, **Harry Cheng**, Zhiyong Cheng, Mohan Kankanhalli, Alberto Del Bimbo <br />
-ACM Transactions on Multimedia Computing Communications and Applications (Accepted) <br />
+ACM Transactions on Multimedia Computing Communications and Applications <br />
 [[PDF]](https://arxiv.org/abs/2202.12690)
 
 ## 2021
