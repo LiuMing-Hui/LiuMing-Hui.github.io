@@ -26,12 +26,12 @@ ACM Conference on Multimedia<br />
 [[PDF]](https://arxiv.org/abs/2307.14866)  [[Code]](https://github.com/xaCheng1996/SLLM)<br />
 
 **Deep convolutional pooling transformer for deepfake detection** <br />Tianyi Wang, **Harry Cheng,** Kam Pui Chow, Liqiang Nie <br />
-ACM Transactions on Multimedia Computing Communications and Applications (Accepted) <br />
+ACM Transactions on Multimedia Computing Communications and Applications <br />
 [[PDF]]((https://dl.acm.org/doi/abs/10.1145/3588574))
 
 **Voice-Face Homogeneity Tells Deepfake**<br />
 **Harry Cheng**,Yangyang Guo, Tianyi Wang, Qi Li, Xiaojun Chang, Liqiang Nie<br />
-(Reviewing)<br />
+ACM Transactions on Multimedia Computing Communications and Applications (Accepted)<br />
 [[PDF]](https://arxiv.org/abs/2203.02195)  [[Code]](https://github.com/xaCheng1996/VFD)<br />
 
 ## 2022
