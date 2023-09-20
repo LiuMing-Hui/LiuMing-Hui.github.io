@@ -21,6 +21,8 @@ I am Harry Cheng (with Chinese name Xuan-Ang Cheng, AKA 程轩昂), a Ph.D. stud
 My research interests include multi-modal representation and computing, information retrieval, and deep learning.
 
 ## News
+2023.9: One paper was accepted by ACM ToMM.
+
 2023.7: One paper was accepted by ACM MM.
 
 2023.3: One paper was accepted by ACM ToMM.
