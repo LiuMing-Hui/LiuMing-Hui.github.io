@@ -15,10 +15,16 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## 2024
+**Diffusion Facial Forgery Detection**<br />**Harry Cheng,** Yangyang Guo, Tianyi Wang, Liqiang Nie, Mohan Kankanhalli<br />
+(Under Reviewing)<br />
+[[PDF]](https://arxiv.org/abs/2401.15859)  [[Code]](https://github.com/xaCheng1996/DiFF)<br />
+
+
 ## 2023
 
 **Towards Generalizable Deepfake Detection by Primary Region Regularization**<br />**Harry Cheng,** Yangyang Guo, Tianyi Wang, Liqiang Nie, Mohan Kankanhalli<br />
-(Reviewing)<br />
+(Under Reviewing)<br />
 [[PDF]](https://arxiv.org/abs/2307.12534)  [[Code]](https://github.com/xaCheng1996/PRLE)<br />
 
 **Sample Less, Learn More: Efficient Action Recognition via Frame Feature Restoration**<br />**Harry Cheng**, Yangyang Guo, Liqiang Nie, Zhiyong Cheng, Mohan Kankanhalli<br />
@@ -51,7 +57,7 @@ ACM Transactions on Multimedia Computing Communications and Applications <br />
 **Audio-driven Talking Video Frame Restoration**<br />
 **Harry Cheng**, Yangyang Guo, Jianhua Yin, Haonan Chen, Jiafang Wang, Liqiang Nie<br />
 IEEE Transactions on Multimedia (Accepted, Early Access)<br />
-[[PDF]](https://ieeexplore.ieee.org/document/9563268/)  [Code(Plz Email me for code release)](xacheng1996@gmail.com)<br />
+[[PDF]](https://ieeexplore.ieee.org/document/9563268/) <br />
 
 **Multimodal Activation: Awakening Dialog Robots without Wake Words**<br />
 Liqiang Nie, Mengzhao Jia, Xuemeng Song, Ganglu Wu, **Harry Cheng**, Jian Gu<br />
