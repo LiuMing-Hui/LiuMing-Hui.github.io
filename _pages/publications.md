@@ -17,7 +17,7 @@ author_profile: true
 
 ## 2024
 **Diffusion Facial Forgery Detection**<br />**Harry Cheng,** Yangyang Guo, Tianyi Wang, Liqiang Nie, Mohan Kankanhalli<br />
-(Under Reviewing)<br />
+(ACMMM 2024)<br />
 [[PDF]](https://arxiv.org/abs/2401.15859)  [[Code]](https://github.com/xaCheng1996/DiFF)<br />
 
 
@@ -37,7 +37,7 @@ ACM Transactions on Multimedia Computing Communications and Applications <br />
 
 **Voice-Face Homogeneity Tells Deepfake**<br />
 **Harry Cheng**,Yangyang Guo, Tianyi Wang, Qi Li, Xiaojun Chang, Liqiang Nie<br />
-ACM Transactions on Multimedia Computing Communications and Applications (Accepted)<br />
+ACM Transactions on Multimedia Computing Communications and Applications <br />
 [[PDF]](https://arxiv.org/abs/2203.02195)  [[Code]](https://github.com/xaCheng1996/VFD)<br />
 
 ## 2022
