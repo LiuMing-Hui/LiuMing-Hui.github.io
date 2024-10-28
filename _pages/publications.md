@@ -16,9 +16,18 @@ author_profile: true
 {% endfor %} -->
 
 ## 2024
+
+**Social Debiasing for Fair Multi-modal LLMs**<br />**Harry Cheng,** Yangyang Guo, Qingpei Guo, Ming Yang, Tian Gan, Liqiang Nie<br />
+(Arxiv)<br />
+[[PDF]](https://arxiv.org/abs/2408.06569) <br />
+
 **Diffusion Facial Forgery Detection**<br />**Harry Cheng,** Yangyang Guo, Tianyi Wang, Liqiang Nie, Mohan Kankanhalli<br />
 (ACMMM 2024)<br />
-[[PDF]](https://arxiv.org/abs/2401.15859)  [[Code]](https://github.com/xaCheng1996/DiFF)<br />
+[[PDF]](https://dl.acm.org/doi/10.1145/3664647.3680797)  [[Code]](https://github.com/xaCheng1996/DiFF)<br />
+
+**LampMark: Proactive Deepfake Detection via Training-Free Landmark Perceptual Watermarks**<br />Tianyi Wang, Mengxiao Huang, **Harry Cheng,** Xiao Zhang, Zhiqi Shen<br />
+(ACMMM 2024)<br />
+[[PDF]](https://arxiv.org/abs/2401.15859) <br />
 
 
 ## 2023
