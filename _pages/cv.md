@@ -13,7 +13,7 @@ redirect_from:
 <!-- ====== -->
 * B.E. in Software Engineering, Shandong University, 2018
 * M.S. in Computer Science, Shandong University, supervised by Prof.Liqiang Nie, 2021
-* Ph.D. in Computer Science, Shandong University, supervised by Prof.Liqiang Nie, 2025 (expected)
+* Ph.D. in Computer Science, Shandong University, supervised by Prof.Liqiang Nie, 2025
 
 ## Experience
 <!-- ====== -->
@@ -31,8 +31,8 @@ redirect_from:
 ## Academic Services
 <!-- ===== -->
 ** Reviewer **
-* CVPR  (2022-2023), ICCV 2023, ECCV 2024, NeuIPS (2023-2024), ICML (2023-2024), ICLR (2023-2024), ACMMM (2022-2024), ICPR 2022
-* IEEE TKDE, IEEE TMM, IEEE TCSVT, IEEE TIFS, ACM ToMM
+* CVPR  (2022-2025), ICCV (2023-2025), ECCV 2024, NeuIPS (2023-2025), ICML (2023-2025), ICLR (2023-2025), ACMMM (2022-2025), ICPR 2022
+*  IEEE TIP, IEEE TKDE, IEEE TIFS, IEEE TMM, IEEE TCSVT, ACM ToMM
 
 <!-- Publications
 ======
