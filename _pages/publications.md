@@ -15,11 +15,29 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## 2024
+## 2025
 
-**Social Debiasing for Fair Multi-modal LLMs**<br />**Harry Cheng,** Yangyang Guo, Qingpei Guo, Ming Yang, Tian Gan, Liqiang Nie<br />
+**Fair Deepfake Detectors Can Generalize**<br />**Harry Cheng,** Ming-Hui Liu, Yangyang Guo, Tianyi Wang, Liqiang Nie, Mohan Kankanhalli<br />
 (Arxiv)<br />
 [[PDF]](https://arxiv.org/abs/2408.06569) <br />
+
+**Social Debiasing for Fair Multi-modal LLMs**<br />**Harry Cheng,** Yangyang Guo, Qingpei Guo, Ming Yang, Tian Gan, Weili Guan, Liqiang Nie<br />
+(ICCV 2025)<br />
+[[PDF]](https://arxiv.org/abs/2408.06569) <br />
+
+**Learning Real Facial Concepts for Independent Deepfake Detection**<br />Ming-Hui Liu, **Harry Cheng,** Tianyi Wang, Xin Luo, Xin-Shun Xu<br />
+(IJCAI 2025)<br />
+[[PDF]](https://arxiv.org/abs/2505.04460) <br />
+
+**NullSwap: Proactive Identity Cloaking Against Deepfake Face Swapping**<br />Tianyi Wang, **Harry Cheng,** Xiao Zhang, Yinglong Wang<br />
+(ICCV 2025)<br />
+[[PDF]](https://arxiv.org/abs/2503.18678) <br />
+
+**FractalForensics: Proactive Deepfake Detection and Localization via Fractal Watermarks**<br />Tianyi Wang, **Harry Cheng,** Ming-Hui Liu, Mohan Kankanhalli<br />
+(ACM MM 2025)<br />
+[[PDF]](https://arxiv.org/abs/2504.09451) <br />
+
+## 2024
 
 **Diffusion Facial Forgery Detection**<br />**Harry Cheng,** Yangyang Guo, Tianyi Wang, Liqiang Nie, Mohan Kankanhalli<br />
 (ACMMM 2024)<br />
