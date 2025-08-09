@@ -17,6 +17,7 @@ redirect_from:
 
 ## Experience
 <!-- ====== -->
+* Research Fellow at NUS, from Aug. 2025 to Present.
 * Intern at Meituan, from Nov. 2017 to Aug. 2018.
 * Intern at Alibaba inc, from Aug. 2020 to Feb. 2021.
 * Research student at NUS, from Jan. 2023 to Jan. 2024, supervised by Prof.Mohan Kankanhalli.
