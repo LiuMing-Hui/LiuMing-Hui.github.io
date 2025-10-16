@@ -17,6 +17,10 @@ author_profile: true
 
 ## 2025
 
+**Towards Generalizable Deepfake Detection by Primary Region Regularization**<br />**Harry Cheng,** Yangyang Guo, Tianyi Wang, Liqiang Nie, Mohan Kankanhalli<br />
+(ACM ToMM, CCF-B)<br />
+[[PDF]](https://arxiv.org/abs/2307.12534)  [[Code]](https://github.com/xaCheng1996/PRLE)<br />
+
 **Fair Deepfake Detectors Can Generalize**<br />**Harry Cheng,** Ming-Hui Liu, Yangyang Guo, Tianyi Wang, Liqiang Nie, Mohan Kankanhalli<br />
 (Arxiv)<br />
 [[PDF]](https://arxiv.org/abs/2408.06569) <br />
@@ -49,10 +53,6 @@ author_profile: true
 
 
 ## 2023
-
-**Towards Generalizable Deepfake Detection by Primary Region Regularization**<br />**Harry Cheng,** Yangyang Guo, Tianyi Wang, Liqiang Nie, Mohan Kankanhalli<br />
-(Under Reviewing)<br />
-[[PDF]](https://arxiv.org/abs/2307.12534)  [[Code]](https://github.com/xaCheng1996/PRLE)<br />
 
 **Sample Less, Learn More: Efficient Action Recognition via Frame Feature Restoration**<br />**Harry Cheng**, Yangyang Guo, Liqiang Nie, Zhiyong Cheng, Mohan Kankanhalli<br />
 ACM MM 2023, CCF-A<br />

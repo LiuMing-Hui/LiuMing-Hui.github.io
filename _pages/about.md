@@ -21,6 +21,8 @@ I am Harry Cheng (with Chinese name Xuan-Ang Cheng, AKA 程轩昂). I am now the
 My research interests is AI Safety, including Deepfake Detection, Security and Reliability of Diffusion Models, and Multi-modal Computing.
 
 ## News
+2025.10: One paper was accepted by ACM ToMM!
+
 2025.9: One paper was accepted by NeurIPS 2025!
 
 2025.7: One paper was accepted by ACM MM 2025!
