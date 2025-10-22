@@ -22,7 +22,7 @@ author_profile: true
 [[PDF]](https://arxiv.org/abs/2307.12534)  [[Code]](https://github.com/xaCheng1996/PRLE)<br />
 
 **Fair Deepfake Detectors Can Generalize**<br />**Harry Cheng,** Ming-Hui Liu, Yangyang Guo, Tianyi Wang, Liqiang Nie, Mohan Kankanhalli<br />
-(Arxiv)<br />
+(NeurIPS 2025, CCF-A)<br />
 [[PDF]](https://arxiv.org/abs/2408.06569) <br />
 
 **Social Debiasing for Fair Multi-modal LLMs**<br />**Harry Cheng,** Yangyang Guo, Qingpei Guo, Ming Yang, Tian Gan, Weili Guan, Liqiang Nie<br />
@@ -83,7 +83,7 @@ ACM ToMM, CCF-B <br />
 
 **Audio-driven Talking Video Frame Restoration**<br />
 **Harry Cheng**, Yangyang Guo, Jianhua Yin, Haonan Chen, Jiafang Wang, Liqiang Nie<br />
-IEEE Transactions on Multimedia, CCF-B<br />
+IEEE TMM, CCF-B<br />
 [[PDF]](https://ieeexplore.ieee.org/document/9563268/) <br />
 
 **Multimodal Activation: Awakening Dialog Robots without Wake Words**<br />
