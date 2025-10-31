@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Harry Cheng"
+title                    : "Ming-Hui Liu"
 title_separator          : "-"
-name                     : &name "Harry Cheng"
-description              : &description "不负少年诗"
+name                     : &name "Ming-Hui Liu"
+description              : &description "刘明慧的主页"
 url                      : https://xacheng1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xaCheng1996/xaCheng1996.github.io"
+repository               : "LiuMing-Hui/liuminghui.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Harry Cheng"
+  name             : "Ming-Hui Liu"
   avatar           : "bio.jpg"
-  bio              : "Research Fellow at National University of Singapore"
-  location         : "Singapore, Singapore"
+  bio              : "Ph.D. Student in Shandong University"
+  location         : "Jinan, Shandong"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F7qfNVLvo7amICQLDNACGMcAUvctpuGtmOQtIuwttks8zMY7TeCYN4P_Gsh_TLlrmh68lQQarLVK8lQo1nYOiZ-ThoZZ69Nj5scHgtJzKlVyQrg4AU&user=qhU1rPAAAAAJ"
-  email            : "xaCheng1996@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Harry-Cheng-4"
+  googlescholar    : "https://scholar.google.com/citations?user=6tXfzQYAAAAJ&hl=zh-CN"
+  email            : "liumh30210@gmail.com"
+  researchgate     :  ""
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xaCheng1996"
+  github           : "LiuMing-Hui"
   google_plus      :
   keybase          :
   instagram        :
